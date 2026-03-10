@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rataanon666.github.io/vidztube-site/sitemap.xml
